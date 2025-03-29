@@ -1,0 +1,26 @@
+{
+  "name": "using_sql_as_a_database-practice_assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshmi-Shankar/Using_SQL_as_a_database-Practice_assignment-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshmi-Shankar/Using_SQL_as_a_database-Practice_assignment-2/issues"
+  },
+  "homepage": "https://github.com/Lakshmi-Shankar/Using_SQL_as_a_database-Practice_assignment-2#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0",
+    "sequelize": "^6.37.7"
+  }
+}
